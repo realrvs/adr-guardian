@@ -1,0 +1,1 @@
+﻿# adr-from-diff.prompt

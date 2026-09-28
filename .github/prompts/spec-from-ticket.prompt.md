@@ -1,0 +1,1 @@
+﻿# spec-from-ticket.prompt
